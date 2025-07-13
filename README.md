@@ -225,19 +225,6 @@ For support and bug reports:
 
 This module is provided as-is for educational and commercial use. Please respect the terms of use and ensure compatibility with your specific PrestaShop installation.
 
-## 🔄 Version History
-
-### v1.0.0
-- Initial release
-- Core banner functionality
-- Responsive design
-- Countdown timer
-- Dynamic placeholders
-- Mobile optimization
-- Cookie management
-
----
-
 ## 👨‍💼 Contributors
 
 <table>
