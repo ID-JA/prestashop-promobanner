@@ -1,6 +1,8 @@
-# Promo Banner - PrestaShop Module
-
-A powerful and customizable promotional banner module for PrestaShop that helps you create eye-catching announcements, promotions, and call-to-action banners on your online store.
+<div align="center">
+  <img width="900" alt="image" src="https://github.com/user-attachments/assets/60a64f97-0319-4229-b79f-74869166ab70" />
+  <h3>Promotional Banner Widget - PrestaShop Module</h3>
+  <p>A powerful and customizable promotional banner module for PrestaShop that helps you create eye-catching announcements, promotions, and call-to-action banners on your online store.</p>
+</div>
 
 ## 🚀 Features
 
